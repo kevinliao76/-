@@ -1,0 +1,16 @@
+C:\Users\Kevin Liao\source\repos\Change\Change\bin\Debug\Change.exe.config
+C:\Users\Kevin Liao\source\repos\Change\Change\bin\Debug\Change.exe
+C:\Users\Kevin Liao\source\repos\Change\Change\bin\Debug\Change.pdb
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.csproj.AssemblyReference.cache
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\App.g.cs
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change_MarkupCompile.cache
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change_MarkupCompile.lref
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\MainWindow.baml
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.g.resources
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.Properties.Resources.resources
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.csproj.GenerateResource.cache
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.exe
+C:\Users\Kevin Liao\source\repos\Change\Change\obj\Debug\Change.pdb

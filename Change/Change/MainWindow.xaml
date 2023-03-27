@@ -1,0 +1,27 @@
+﻿<Window x:Name="清除1" x:Class="Change.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Change"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnALLClear" Content="清除" HorizontalAlignment="Left" Height="41" Margin="115,75,0,0" VerticalAlignment="Top" Width="53"/>
+        <Label x:Name="txtCM" Content="公分" HorizontalAlignment="Left" Margin="115,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtM" Content="公尺" HorizontalAlignment="Left" Margin="240,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtKM" Content="公里" HorizontalAlignment="Left" Margin="365,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtIn" Content="英吋" HorizontalAlignment="Left" Margin="115,225,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtFt" Content="英尺" HorizontalAlignment="Left" Margin="240,225,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtYard" Content="碼" HorizontalAlignment="Left" Margin="365,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtInfo" Content="說明文字" HorizontalAlignment="Left" Margin="115,300,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCM1" HorizontalAlignment="Left" Margin="115,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyUp="txtCM_KeyUP"/>
+        <TextBox x:Name="txtM1" HorizontalAlignment="Left" Margin="240,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtKM1" HorizontalAlignment="Left" Margin="365,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtIn1" HorizontalAlignment="Left" Margin="115,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtFt1" HorizontalAlignment="Left" Margin="240,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtYard1" HorizontalAlignment="Left" Margin="365,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="115,342,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370"/>
+
+    </Grid>
+</Window>
