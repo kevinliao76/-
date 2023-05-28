@@ -1,0 +1,16 @@
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.AssemblyReference.cache
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\Kevin Liao\source\repos\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
