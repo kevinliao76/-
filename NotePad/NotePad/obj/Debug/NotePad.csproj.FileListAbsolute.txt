@@ -1,0 +1,16 @@
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\App.g.cs
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad_MarkupCompile.cache
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad_MarkupCompile.lref
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\MainWindow.baml
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.g.resources
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Kevin Liao\source\repos\NotePad\NotePad\obj\Debug\NotePad.pdb
